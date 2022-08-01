@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "primer modulo xghg",
+    'name': "primer modulo commit",
 
     'summary': """
         Short (1 phrase/line) summary of the module's purpose, used as
